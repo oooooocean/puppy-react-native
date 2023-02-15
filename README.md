@@ -1,1 +1,4 @@
-# puppy-react-native
+# 宠物星球 React-Native 版本客户端
+
+- [后端](https://github.com/oooooocean/puppy-react-native)
+- [Flutter版本客户端](https://github.com/oooooocean/puppy-frontend)
